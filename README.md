@@ -2,6 +2,12 @@
 
 I selected the Baseball Databank as the OLTP data set. I only take the files which can build good relations and have much valuable data. Since all these files has large set of columns and rows, I had to cut them to create certain set of data to use to make rich ETL process and make better hierarchies and dimensions.
 
+Final Reports : 
+
+      [Assignment1.pdf](https://github.com/shanika17/DWBI_Project/files/9141200/Assignment1.pdf)
+      
+      [Assignment2.pdf](https://github.com/shanika17/DWBI_Project/files/9141202/Assignment2.pdf)
+
 
 As the preparation of the data sets I come up with 5 tables which are in Text format and CSV format
 • Batting – Batting statistics. (CSV file)
